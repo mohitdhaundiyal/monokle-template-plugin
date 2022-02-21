@@ -3,10 +3,10 @@
 	"description": "Custom templates plugin",
 	"version": "1.0.0",
 	"author": "Mohit Dhaundiyal",
-	"repository": "https://github.com/mohitdhaundiyal/monokle-template-plugin.git",
+	"repository": "https://github.com/mohitdhaundiyal/monokle-template-plugin",
 	"monoklePlugin": {
 		"id": "com.github.kunal-kushwaha.plugin.templates",
-		"helpUrl": "https://github.com/mohitdhaundiyal/monokle-template-plugin.git",
+		"helpUrl": "https://github.com/mohitdhaundiyal/monokle-template-plugin",
 		"modules": [
 			{
 				"type": "template",
