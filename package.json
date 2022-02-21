@@ -5,7 +5,7 @@
 	"author": "Mohit Dhaundiyal",
 	"repository": "https://github.com/mohitdhaundiyal/monokle-template-plugin",
 	"monoklePlugin": {
-		"id": "com.github.kunal-kushwaha.plugin.templates",
+		"id": "com.github.mohitdhaundiyal.plugin.templates",
 		"helpUrl": "https://github.com/mohitdhaundiyal/monokle-template-plugin",
 		"modules": [
 			{
